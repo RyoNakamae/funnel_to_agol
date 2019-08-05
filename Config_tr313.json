@@ -1,0 +1,17 @@
+{
+    "sendType": "text",
+    "delimiter": ",",
+    "encode": "base64",
+    "d_id": "1",
+    "lat": "10",
+    "lng": "9",
+    "D_TIME": "",
+    "v_dbl_1": "11",
+    "v_dbl_2": "12",
+    "v_dbl_3": "13",
+    "v_dbl_4": "#IMEI",
+    "v_int_1": "2",
+    "v_int_2": "6",
+    "v_str_1": "0",
+    "v_str_2": "16"
+}

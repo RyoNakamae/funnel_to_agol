@@ -1,0 +1,17 @@
+{
+  "sendType": "json",
+  "delimiter": "",
+  "encode": "",
+  "d_id": "device",
+  "lat": "",
+  "lng": "",
+  "D_TIME": "time",
+  "v_dbl_1": "tempC",
+  "v_dbl_2": "humidity",
+  "v_dbl_3": "battery",
+  "v_dbl_4": "rssi",
+  "v_int_1": "mode",
+  "v_int_2": "",
+  "v_str_1": "station",
+  "v_str_2": "modeText"
+}
