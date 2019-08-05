@@ -1,0 +1,17 @@
+{
+  "sendType": "json",
+  "delimiter": "",
+  "encode": "",
+  "d_id": "#IMSI",
+  "lat": "location",
+  "lng": "Location",
+  "D_TIME": "",
+  "v_dbl_1": "batteryLevel",
+  "v_dbl_2": "",
+  "v_dbl_3": "",
+  "v_dbl_4": "",
+  "v_int_1": "clickType",
+  "v_int_2": "",
+  "v_str_1": "clickTypeName",
+  "v_str_2": "#locationQueryResult"
+}
